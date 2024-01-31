@@ -4,7 +4,6 @@ This project is a simple calculator designed using DOM, CSS, and Bootstrap. It a
 
 ## Table of Contents
 - [Description](#description)
-- [Preview](#preview)
 - [Features](#features)
 - [Usage](#usage)
 - [Operators](#operators)
